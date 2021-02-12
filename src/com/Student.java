@@ -7,4 +7,11 @@ package com;
 public class Student
 {
 
+    String id, name, cousrename;
+    char courseType; 
+
+    Student(){
+
+    }
+
 } //class
